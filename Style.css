@@ -1,0 +1,20 @@
+body{
+    background-color: #9EF8EE
+  }
+.navbar{
+    background-color: #22BABB;
+    font-family: 'Staatliches', cursive;
+  }
+.btn{
+  background-color: #008F8C;
+}
+.bgrnd{
+  font-family: 'Lora', serif;
+  font-size: large;
+}
+h2,h3{
+  font-family: 'Bree Serif', serif;
+}
+form{
+  font-family: 'Staatliches', cursive;
+}
